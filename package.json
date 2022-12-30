@@ -1,0 +1,26 @@
+{
+  "name": "discordmessagestowebhookbot",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "Main.js",
+  "scripts": {
+    "start": "node Main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheHellTower/DiscordMessagesToWebhookBot.git"
+  },
+  "keywords": [
+    "DiscordMessagesToWebhookBot",
+    "TheHellTower"
+  ],
+  "author": "TheHellTower",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheHellTower/DiscordMessagesToWebhookBot/issues"
+  },
+  "homepage": "https://github.com/TheHellTower/DiscordMessagesToWebhookBot#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  }
+}
