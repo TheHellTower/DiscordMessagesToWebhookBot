@@ -1,5 +1,7 @@
 # DiscordMessagesToWebhook
 
+[![CodeFactor](https://www.codefactor.io/repository/github/thehelltower/discordmessagestowebhookbot/badge)](https://www.codefactor.io/repository/github/thehelltower/discordmessagestowebhookbot)
+
 ## 📜 What it does ?
 
 It does delete the original author message then send it through a webhook to avoid message deletion and ghost ping.
